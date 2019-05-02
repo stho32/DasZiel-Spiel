@@ -12,3 +12,5 @@ Die Implementation gibt einem die Möglichkeit beliebige Pipelines aufzustellen.
 Und auch die späteren Hinweise im Buch auszuprobieren, nämlich Engpässe am Anfang zu platzieren z.B..
 
 Na mal sehen wie es wird.
+
+Link zum Gucken/Testen: https://stho32.github.io/DasZiel-Spiel/Source/index.html
